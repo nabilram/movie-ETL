@@ -6,6 +6,7 @@ config.py
 movies_metadata.csv
 ratings.csv
 wikipedia-movies.json
+Module_8.ipynb
 
 
 # Byte-compiled / optimized / DLL files
