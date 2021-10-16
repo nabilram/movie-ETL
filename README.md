@@ -4,8 +4,8 @@
 * Client requires analyses using multiple data sets from multiple sources
     * movies data, kaggle data, and ratings data
     * ETL to be used for analysis
-    
-# Methods Analyses
+
+# Methods and Analyses
 * Extract data
     * data has been provided by client directly
 
