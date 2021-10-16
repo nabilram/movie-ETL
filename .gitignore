@@ -3,9 +3,9 @@
 /class_folder/config.py
 config.py
 *starter_code*
-movies_metadata.csv
+/class_folder/movies_metadata.csv
 ratings.csv
-wikipedia-movies.json
+/class_folder/wikipedia-movies.json
 Module_8.ipynb
 
 
